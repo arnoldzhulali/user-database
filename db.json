@@ -22,6 +22,11 @@
 "body": "comment 1",
 "postId": 1
 },
+  {
+"id": 3,
+"body": "comment 3",
+"postId": 3
+},
 {
 "id": 2,
 "body": "comment 2",
@@ -30,6 +35,5 @@
 ],
 "profile": {
 "name": "Profile 1",
-"name2": "Profile 2",
 }
 }
