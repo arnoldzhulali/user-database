@@ -1,5 +1,5 @@
 {
-"profile": [
+"posts": [
 {
 "id": 1,
 "title": "Post 1",
@@ -30,5 +30,8 @@
 ],
 "profile": {
 "name": "Profile 1"
+}
+  {
+"name": "Profile 2"
 }
 }
